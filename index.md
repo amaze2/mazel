@@ -4,7 +4,7 @@ layout: home
 
 I am the <a href="https://www.union.edu/schaffer-library/staff-departments/adam-mazel" target="_blank">Digital Scholarship and Instruction Librarian</a> at 
 <a href="https://www.union.edu/" target="_blank">Union College</a> in Schenectady, NY. 
-My responsibilities include helping Union use digital media to advance and open its scholarship and teaching.</p>
+My responsibilities include helping Union use digital media to advance and open its scholarship and teaching.
 
 My M.S. in Library and Information Science is from <a href="http://www.simmons.edu/" target="_blank">Simmons University</a> (2019), 
 where I focused on digital technology, and my Ph.D. in English Language and Literature is from the 
