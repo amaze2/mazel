@@ -31,6 +31,7 @@ Union College, Schenectady, NY
 University of Michigan, Ann Arbor
 
 ## AWARDS & GRANTS
+
 2021  Manifold Digital Services Support Grant  Manifold Scholarship
 
 2019, 2021 DHSI Tuition Scholarships Digital Humanities Summer Institute
@@ -55,9 +56,9 @@ University of Michigan, Ann Arbor
 
 2007 Master’s Class Representative New York University
 
-##PUBLICATIONS
+## PUBLICATIONS
 
-###peer-reviewed articles
+### peer-reviewed articles
 
 (2017). The Age of Rhyme: The Verse Culture of Victorian Cambridge. Nineteenth-Century
 Literature 72(3), 374-401. doi:10.1525/ncl.2017.72.3.374
@@ -68,13 +69,13 @@ Culture. Victorian Poetry 55(2), 163-187. doi:10.1353/vp.2017.0008
 (2016). “You, guess”: The Enigmas of Christina Rossetti. Victorian Literature and Culture
 44(3), 511–533. doi:10.1017/S1060150316000073
 
-###peer-reviewed posters
+### peer-reviewed posters
 
 (2019). Mazel, A. and Dumas, C. Computational analyses of the relation of theme and genre
 in the writing of Aphra Behn. Proceedings of the Association for Information Science
 and Technology 56(1), 733-734. doi:10.1002/pra2.153
 
-###solicited review essays
+### solicited review essays
 
 (2020). Swinburne. Victorian Poetry 58(3), forthcoming
 
@@ -82,7 +83,7 @@ and Technology 56(1), 733-734. doi:10.1002/pra2.153
 
 (2018). Swinburne. Victorian Poetry 56(3), 351-359. doi:10.1353/vp.2018.0023
 
-###other 
+### other 
 
 (2019). Appraisal and acquisitions. NEA Newsletter 46(1), 11.
 
@@ -99,7 +100,7 @@ Newsletter 45(3), 25–26.
 post]. Retrieved from http://www.crlt.umich.edu/blog/learning-about-teachingthrough-
 intercampus-mentorship
 
-##PRESENTATIONS
+## PRESENTATIONS
 
 (2020, May 7). Alternative break seminars: helping campuses engage with ethics and
 information literacy in AI. Recounting Algorithms: A Workshop on Critical Algorithm
@@ -153,7 +154,7 @@ Arbor.
 subjectivity. Paper presented at the British Women Writers Conference, University of
 Florida, Gainesville.
 
-##DIGITAL SKILLS
+## DIGITAL SKILLS
 
 Text Analysis: AntConc, HathiTrust Research Center, Lexos, MALLET,
 Stylo, Topic Modeling Tool, Voyant-Tools
@@ -171,7 +172,7 @@ Content Management Systems: WordPress
 
 Version Control: Subversion, Git (basic) / GitHub
 
-##SERVICE 
+## SERVICE 
 
 2020–21 ACRL 2021 Virtual Conference Committee
 
@@ -189,13 +190,13 @@ Version Control: Subversion, Git (basic) / GitHub
 
 2007–14 Steering Committee, Nineteenth-Century Forum, University of Michigan
 
-##PROFESSIONAL DEVELOPMENT (selection)
+## PROFESSIONAL DEVELOPMENT (selection)
 
-####2021 
+#### 2021 
 
 SPARC Open Education Leadership Program, Remote, Winter, Spring
 
-####2020
+#### 2020
 
 SPARC Open Education Leadership Program, Remote, Fall
 
@@ -203,7 +204,7 @@ CSC 206: “Text Analytics,” Union College, Fall
 
 HTRC Workshops, Remote, Fall
 
-####2019 
+#### 2019 
 
 Research Collaborator, Women Writers Project, Northeastern University Library
 
@@ -223,7 +224,7 @@ LIS 500: “Python for Text Mining,” Simmons University, Spring
 
 LIS 445: “Metadata,” Simmons University, Spring
 
-####2018 
+#### 2018 
 
 Research Collaborator, Women Writers Project, Northeastern University Library
 
@@ -237,11 +238,11 @@ LIS 458: “Database Management,” Simmons University, Fall
 
 LIS 485: “Introduction to Programming,” Simmons University, Spring
 
-####2017 
+#### 2017 
 
 LIS 488: “Technology for Information Professionals,” Simmons University, Fall
 
-##AFFILIATIONS
+## AFFILIATIONS
 
 American Library Association (ALA)
 
@@ -251,7 +252,7 @@ Alliance of Digital Humanities Organizations (ADHO)
 
 Library and Information Technology Association (LITA)
 
-##REFERENCES
+## REFERENCES
 
 Dr. Jennifer Grayburn
 
