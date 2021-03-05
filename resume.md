@@ -5,8 +5,9 @@ title: resume
 
 Last Updated: December 2020
 
-###EDUCATION 2019 M.S., Library and Information Science, Simmons University
+### EDUCATION 
 
+2019 M.S., Library and Information Science, Simmons University
 2014 Ph.D., English Language and Literature, University of Michigan
 2013 U-M Graduate Teacher Certificate
 2009 M.A., English Language and Literature, University of Michigan
@@ -14,14 +15,14 @@ Last Updated: December 2020
 2007 Advanced Certificate, Poetics and Theory
 2001 B.A., English and American Literature, New York University
 
-###EMPLOYMENT(selection) 
+### EMPLOYMENT (selection) 
 
 2019– Digital Scholarship and Instruction Librarian
 Union College, Schenectady, NY
 2014–15 Lecturer I, English Department Writing Program
 University of Michigan, Ann Arbor
 
-###AWARDS & GRANTS
+### AWARDS & GRANTS
 2021 Manifold Digital Services Support Grant Manifold Scholarship
 2019, 2021 DHSI Tuition Scholarships Digital Humanities Summer Institute
 2018–19 Travel Grants Simmons University
