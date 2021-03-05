@@ -2,7 +2,6 @@
 layout: page
 title: Résumé
 ---
-
 ## EDUCATION 
 
 2019 M.S., Library and Information Science, Simmons University
@@ -57,7 +56,6 @@ University of Michigan, Ann Arbor
 2007 Master’s Class Representative New York University
 
 ## PUBLICATIONS
-
 ### peer-reviewed articles
 
 (2017). The Age of Rhyme: The Verse Culture of Victorian Cambridge. Nineteenth-Century
@@ -265,7 +263,8 @@ Lindsay Bush
 
 Instructional Services Librarian
 
-Union College
+Union College  
+
 
 
 Robyn Reed
