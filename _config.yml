@@ -1,0 +1,9 @@
+# Site settings
+title: Adam Mazel
+author:
+  name: Adam Mazel
+  email: mazeladam@gmail.com
+description: "Professional Website: About, Résumé, Projects"
+
+# Build settings
+remote_theme: jekyll/minima
