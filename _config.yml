@@ -6,6 +6,6 @@ author:
 description: "Professional Website: About, Résumé, Projects"
 
 # Build settings
-remote_theme: poole/lanyon
-#minima:
-  #skin: solarized-dark
+remote_theme: poole/poole
+# minima:
+  # skin: solarized-dark
