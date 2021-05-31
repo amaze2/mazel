@@ -6,6 +6,6 @@ author:
 description: "Professional Website: About, Résumé, Projects"
 
 # Build settings
-theme: jekyll-theme-hacker
+remote_theme: swanson/lagom
 #minima:
   #skin: solarized-dark
